@@ -211,9 +211,8 @@ I'm passionate about **Software Development**, **Problem Solving**, and **Web De
 
 <!-- Replace # with your LinkedIn profile link -->
 
-<a href="#">
-<img src="www.linkedin.com/in/shindearush"/>
-</a>
+<a href="www.linkedin.com/in/shindearush"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 </p>
 
