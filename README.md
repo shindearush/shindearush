@@ -1,113 +1,223 @@
-# Hi, I'm Arush Shinde 👋
+<div align="center">
 
-### 🎓 Computer Engineering Student | 💻 Aspiring Software Developer
+# 👋 Hey there, I'm **Arush Shinde**
 
-I am a Computer Engineering student at Vishwakarma University, Pune, with a strong interest in Software Development, Problem Solving, and Web Technologies. I enjoy building projects, learning new technologies, and continuously improving my programming skills.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies" />
+
+### 💻 Computer Engineering Student • 🚀 Software Developer • 🌐 Web Enthusiast
+
+<p>
+  <img src="https://img.shields.io/badge/CGPA-8.5%2F10-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Development-Gold_Medalist-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Internship-Completed-blue?style=for-the-badge" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 B.Tech Computer Engineering, Vishwakarma University (2028)
-* 📊 Current CGPA: **8.5/10**
+🎓 **B.Tech Computer Engineering**
+📍 Vishwakarma University, Pune *(2028)*
+
+I am passionate about building impactful software, solving challenging problems, and continuously learning modern technologies.
+
+* 🌱 Currently learning **Java**, **DSA**, and **Object-Oriented Programming**
+* 💻 Interested in **Software Development** & **Web Technologies**
 * 🏅 Gold Medal Winner in a Web Development Competition
 * 💼 Completed a **6-Week Web Developer Internship**
-* 🌱 Currently learning **Java** and **Data Structures & Algorithms**
-* 🎯 Aspiring to build a career in Software Development
+* 🎯 Working toward becoming a Software Engineer
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Languages
 
-* Java
-* C
+<p>
+<img src="https://skillicons.dev/icons?i=java,c" />
+</p>
 
-### 🌐 Web Technologies
+## 🌐 Frontend
 
-* HTML5
-* CSS3
-* Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
-### 🗄️ Database
+## 🗄️ Database
 
-* MySQL (Basic)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### ⚙️ Tools & Platforms
+## ⚙️ Tools
 
-* Git
-* GitHub
-* Visual Studio Code
-
----
-
-## 💼 Experience
-
-### Web Developer Intern | Infeanet Digital Solution and Web Media
-
-* Developed responsive web pages using HTML, CSS, and Bootstrap.
-* Assisted in front-end development and website enhancement activities.
-* Improved website responsiveness and user interface design.
-* Collaborated with team members on real-world web development projects.
-* Applied industry-standard development practices during internship assignments.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📂 Projects
+# 💼 Experience
 
-### 🛍️ E-Commerce Cosmetics Website
+## 💻 Web Developer Intern
 
-* Developed the complete front-end of a cosmetics e-commerce website.
-* Built responsive product pages, navigation menus, and promotional sections.
-* Ensured seamless user experience across desktop, tablet, and mobile devices.
+### Infeanet Digital Solution & Web Media
 
-### 🌐 Personal Portfolio Website
+✔ Developed responsive websites using **HTML**, **CSS**, and **Bootstrap**
 
-* Designed and developed a responsive portfolio website.
-* Implemented modern UI components using HTML, CSS, and Bootstrap.
+✔ Improved UI and website responsiveness
 
-### ✅ Task Management Web Application
+✔ Worked on real-world client projects
 
-* Currently developing a web application to manage daily tasks and improve productivity.
-* Focused on creating an intuitive and user-friendly experience.
+✔ Collaborated with developers using industry-standard workflows
+
+✔ Enhanced front-end performance and user experience
 
 ---
 
-## 🏆 Achievements
+# 🚀 Featured Projects
 
-* 🥇 Gold Medal Winner in a Web Development Competition.
-* 💼 Successfully completed a 6-Week Web Developer Internship.
-* 📈 Maintained a CGPA of **8.5/10** in Computer Engineering.
-* 🎓 Secured **92.20%** in Secondary School Examination.
-* 🎓 Secured **83.03%** in Diploma in Computer Engineering.
+## 🛍️ E-Commerce Cosmetics Website
+
+✨ Responsive e-commerce front-end
+
+🛒 Product listings
+
+📱 Mobile-friendly design
+
+🎨 Modern Bootstrap UI
 
 ---
 
-## 📚 Currently Learning
+## 🌐 Personal Portfolio Website
 
-* ☕ Java Programming
+✨ Clean and responsive portfolio
+
+🎯 Modern UI
+
+⚡ Fast loading
+
+📱 Mobile optimized
+
+---
+
+## ✅ Task Management Web App *(Currently Building)*
+
+📋 Manage daily tasks
+
+🗂️ Productivity focused
+
+⚡ User-friendly interface
+
+🔄 Active Development
+
+---
+
+# 🏆 Achievements
+
+🥇 Gold Medal in Web Development Competition
+
+💼 Successfully completed Web Development Internship
+
+🎓 CGPA **8.5 / 10**
+
+🏅 Secondary School: **92.20%**
+
+🎓 Diploma in Computer Engineering: **83.03%**
+
+---
+
+# 📚 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
+
+* ☕ Java
 * 🧩 Data Structures & Algorithms
 * 🏗️ Object-Oriented Programming
-* 🔧 Git & GitHub
 * 🗄️ MySQL
+* ⚡ Git & GitHub
 
 ---
 
-## 🎯 Goals for 2026
+# 🎯 2026 Goals
 
-* 🚀 Master Java Fundamentals
-* 💯 Solve 300+ DSA Problems
-* 🏗️ Build Multiple Software Projects
-* 💼 Secure a Software Development Internship
-* 📈 Strengthen Problem-Solving Skills
+* 🚀 Master Java
+* 💯 Solve **300+ DSA Problems**
+* 💻 Build Multiple Software Projects
+* 🎓 Secure a Software Development Internship
+* 📈 Improve Problem Solving Skills
+* 🌟 Contribute to Open Source
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Analytics
 
-📧 **Email:** [arush.shinde25@vupune.ac.in](mailto:arush.shinde25@vupune.ac.in)
+<div align="center">
 
-📍 **Location:** Pune, Maharashtra, India
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-⭐ Always learning, building, and improving.
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 Coding Profiles
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:arush.shinde25@vupune.ac.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+📍 **Pune, Maharashtra, India**
+
+---
+
+<div align="center">
+
+### ⭐ *"Always Learning • Always Building • Always Improving"* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</div>
