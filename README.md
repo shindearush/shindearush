@@ -22,7 +22,7 @@
 # 🚀 About Me
 
 🎓 **B.Tech Computer Engineering**
-🏫 **Vishwakarma University, Pune (2024–2028)**
+🏫 **Vishwakarma University, Pune (2028)**
 
 I'm passionate about **Software Development**, **Problem Solving**, and **Web Development**. I enjoy building projects, learning new technologies, and constantly improving my programming skills.
 
@@ -212,7 +212,7 @@ I'm passionate about **Software Development**, **Problem Solving**, and **Web De
 <!-- Replace # with your LinkedIn profile link -->
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="www.linkedin.com/in/shindearush"/>
 </a>
 
 </p>
