@@ -64,21 +64,79 @@ I'm passionate about **Software Development**, **Problem Solving**, and **Web De
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
-## 💻 Web Developer Intern
+## 🤖 Gen AI & Cloud Intern
+### BharatCares®
+📅 **June 2026 – Present** | 🌍 Remote
 
-### Infeanet Digital Solution and Web Media
+🚀 Working on next-generation AI solutions using Large Language Models (LLMs) and cloud technologies.
 
-✅ Developed responsive web pages using **HTML**, **CSS**, and **Bootstrap**
+### Key Contributions
+- 🤖 Assisted in developing **Generative AI** applications powered by **LLMs**
+- ✨ Contributed to **prompt engineering** and AI workflow optimization
+- ☁️ Worked with cloud-based AI services for prototype development
+- 🧠 Explored practical applications of Generative AI in real-world scenarios
+- 🤝 Collaborated with the team on AI-driven projects
 
-✅ Enhanced website responsiveness and UI
+**Tech Stack:** Generative AI • LLMs • Prompt Engineering • Cloud Computing
 
-✅ Assisted in front-end development
+---
 
-✅ Worked on real-world client projects
+## 🌐 Frontend Developer Intern
+### Codveda Technologies
+📅 **June 2026 – July 2026** | 🌍 Remote
 
-✅ Followed industry-standard development practices
+Built modern web applications using React and JavaScript while following industry-standard development practices.
+
+### Key Contributions
+- ⚛️ Developed responsive web applications using **React, HTML, CSS, and JavaScript**
+- 📱 Built mobile-first responsive user interfaces
+- 🔄 Developed Single Page Applications (SPAs)
+- 🌐 Integrated REST APIs using **Fetch API** and **Axios**
+- 📝 Implemented form validation and DOM manipulation
+- 🚀 Improved application performance and accessibility
+- 🔧 Used Git & GitHub for version control
+- ☁️ Deployed projects on **Vercel** and **Netlify**
+
+**Tech Stack:** React • JavaScript • HTML5 • CSS3 • REST APIs • Git • GitHub • Vercel • Netlify
+
+---
+
+## 💻 Frontend Developer Intern
+### SaiKet Systems
+📅 **June 2026 – July 2026** | 🌍 Remote
+
+Focused on responsive web development and interactive front-end applications.
+
+### Key Contributions
+- 💻 Developed responsive websites using **HTML, CSS, and JavaScript**
+- 🎯 Built interactive applications including:
+  - ✅ Quiz Application
+  - 📝 To-Do List Application
+- ⚡ Implemented DOM manipulation and client-side validation
+- 📱 Used CSS Grid, Flexbox, and Media Queries for responsive layouts
+- 🎨 Recreated modern landing pages and website designs
+- 🚀 Followed front-end best practices for UI/UX
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript • DOM • Responsive Design
+
+---
+
+## 🌍 Web Developer Intern
+### Infeanet Digital Solution & Web Media
+📅 **2025** | 📍 Pune, India
+
+Worked on responsive websites and front-end development projects.
+
+### Key Contributions
+- 🌐 Developed responsive web pages using HTML, CSS, and Bootstrap
+- 🎨 Enhanced website responsiveness and UI
+- 🤝 Collaborated on real-world client projects
+- 📈 Improved front-end performance and user experience
+- 💡 Applied industry-standard web development practices
+
+**Tech Stack:** HTML5 • CSS3 • Bootstrap • Git • GitHub
 
 ---
 
