@@ -2,17 +2,18 @@
 
 # 👋 Hey there, I'm **Arush Shinde**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Web+Development+Enthusiast;Java+%7C+DSA+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-### 💻 Computer Engineering Student • 🚀 Software Developer • 🌐 Web Enthusiast
+### 💻 Computer Engineering Student • 🚀 Aspiring Software Developer • 🌐 Web Enthusiast
 
 <p>
   <img src="https://img.shields.io/badge/CGPA-8.5%2F10-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web_Development-Gold_Medalist-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Internship-Completed-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to-Learning-success?style=for-the-badge" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=shindearush&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -21,39 +22,41 @@
 # 🚀 About Me
 
 🎓 **B.Tech Computer Engineering**
-📍 Vishwakarma University, Pune *(2028)*
+🏫 **Vishwakarma University, Pune (2024–2028)**
 
-I am passionate about building impactful software, solving challenging problems, and continuously learning modern technologies.
+I'm passionate about **Software Development**, **Problem Solving**, and **Web Development**. I enjoy building projects, learning new technologies, and constantly improving my programming skills.
 
-* 🌱 Currently learning **Java**, **DSA**, and **Object-Oriented Programming**
-* 💻 Interested in **Software Development** & **Web Technologies**
+* 🎓 Computer Engineering Student
+* 📊 Current CGPA: **8.5/10**
 * 🏅 Gold Medal Winner in a Web Development Competition
 * 💼 Completed a **6-Week Web Developer Internship**
-* 🎯 Working toward becoming a Software Engineer
+* 🌱 Currently learning **Java**, **DSA**, and **OOP**
+* 🚀 Interested in Software Development & Backend Development
+* 🎯 Goal: Become a Software Engineer
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
-## 💻 Languages
+### 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-## 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-## ⚙️ Tools
+### ⚙️ Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -65,17 +68,17 @@ I am passionate about building impactful software, solving challenging problems,
 
 ## 💻 Web Developer Intern
 
-### Infeanet Digital Solution & Web Media
+### Infeanet Digital Solution and Web Media
 
-✔ Developed responsive websites using **HTML**, **CSS**, and **Bootstrap**
+✅ Developed responsive web pages using **HTML**, **CSS**, and **Bootstrap**
 
-✔ Improved UI and website responsiveness
+✅ Enhanced website responsiveness and UI
 
-✔ Worked on real-world client projects
+✅ Assisted in front-end development
 
-✔ Collaborated with developers using industry-standard workflows
+✅ Worked on real-world client projects
 
-✔ Enhanced front-end performance and user experience
+✅ Followed industry-standard development practices
 
 ---
 
@@ -83,37 +86,37 @@ I am passionate about building impactful software, solving challenging problems,
 
 ## 🛍️ E-Commerce Cosmetics Website
 
-✨ Responsive e-commerce front-end
+✨ Responsive Frontend
 
-🛒 Product listings
+🛒 Product Pages
 
-📱 Mobile-friendly design
+📱 Mobile-Friendly Design
 
-🎨 Modern Bootstrap UI
+🎨 Bootstrap UI
 
 ---
 
 ## 🌐 Personal Portfolio Website
 
-✨ Clean and responsive portfolio
+💻 Responsive Design
 
-🎯 Modern UI
+🎨 Modern Interface
 
-⚡ Fast loading
+⚡ Fast Loading
 
-📱 Mobile optimized
+📱 Mobile Optimized
 
 ---
 
-## ✅ Task Management Web App *(Currently Building)*
+## ✅ Task Management Web Application *(In Progress)*
 
-📋 Manage daily tasks
+📋 Daily Task Manager
 
-🗂️ Productivity focused
+⚡ Productivity Focused
 
-⚡ User-friendly interface
+🎯 User-Friendly Interface
 
-🔄 Active Development
+🚀 Currently Under Development
 
 ---
 
@@ -121,11 +124,11 @@ I am passionate about building impactful software, solving challenging problems,
 
 🥇 Gold Medal in Web Development Competition
 
-💼 Successfully completed Web Development Internship
+💼 Successfully Completed a 6-Week Web Development Internship
 
-🎓 CGPA **8.5 / 10**
+📊 Maintained **8.5 CGPA**
 
-🏅 Secondary School: **92.20%**
+🎓 Secondary School: **92.20%**
 
 🎓 Diploma in Computer Engineering: **83.03%**
 
@@ -133,36 +136,38 @@ I am passionate about building impactful software, solving challenging problems,
 
 # 📚 Currently Learning
 
+<p>
 <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
+</p>
 
-* ☕ Java
+* ☕ Java Programming
 * 🧩 Data Structures & Algorithms
 * 🏗️ Object-Oriented Programming
+* 🔧 Git & GitHub
 * 🗄️ MySQL
-* ⚡ Git & GitHub
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-* 🚀 Master Java
+* 🚀 Master Java Programming
 * 💯 Solve **300+ DSA Problems**
 * 💻 Build Multiple Software Projects
-* 🎓 Secure a Software Development Internship
+* 💼 Secure a Software Development Internship
+* 🌍 Contribute to Open Source
 * 📈 Improve Problem Solving Skills
-* 🌟 Contribute to Open Source
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shindearush&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shindearush&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindearush&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -185,14 +190,14 @@ I am passionate about building impactful software, solving challenging problems,
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -200,24 +205,40 @@ I am passionate about building impactful software, solving challenging problems,
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shindearush">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<!-- Replace # with your LinkedIn profile link -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 📍 **Pune, Maharashtra, India**
 
+📧 **[arush.shinde25@vupune.ac.in](mailto:arush.shinde25@vupune.ac.in)**
+
 ---
 
 <div align="center">
 
-### ⭐ *"Always Learning • Always Building • Always Improving"* 🚀
+## 💡 Developer Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+> **"Code. Learn. Build. Repeat." 🚀**
+
+<img src="https://github-profile-trophy.vercel.app/?username=shindearush&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shindearush&theme=tokyo-night&hide_border=true" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=130&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
